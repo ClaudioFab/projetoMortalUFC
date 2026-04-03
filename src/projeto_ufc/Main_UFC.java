@@ -11,10 +11,10 @@ public class Main_UFC {
         player[0] = new Lutador("Johnny Cage","Estados Unidos",35,1.85,80,null,0,0,0);
         player[1] = new Lutador("Kung Lao","China",27,1.69,68,null,0,0,0);
         player[2] = new Lutador("Scorpion","Japão",182,1.72,70,null,0,0,0);
-        player[3] =  new Lutador("Goro","Exoterra",2000,2.50,110,null,0,0,0);
+        player[3] =  new Lutador("Goro","Exoterra",2000,2.51,110,null,0,0,0);
         player[4] =  new Lutador("Jax Briggs","Estados Unidos",40,1.90,100,null,0,0,0);
         player[5] =  new Lutador("Kano","Austrália",38,1.80,83,null,0,0,0);
-
+       
         player[0].apresentar();
         player[0].status();
         player[1].apresentar();
